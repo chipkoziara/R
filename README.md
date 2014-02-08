@@ -1,6 +1,6 @@
 # Projects in R 
 
-> #### R is ugly, but ggplot2 and ggmap make up for it
+> #### R can be ugly, but ggplot2 and ggmap more than make up for it
 
 This repo contain projects and snippets from graphs and visualizations created using R's ggplot2 and ggmap packages.
 
